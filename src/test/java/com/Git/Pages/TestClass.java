@@ -9,5 +9,10 @@ public class TestClass {
 	{
 		System.out.println("Hello Good Morning GitHub");
 	}
+	@Test
+	public void testCase2()
+	{
+		System.out.println("This is my first commit");
+	}
 
 }
